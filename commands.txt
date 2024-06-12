@@ -29,5 +29,8 @@
         - displays all the commits that were made
 *   git log --oneline
         - condensed version of git log
+*   git push 
+        - uploading files/folders from local repo to remote repo
+
 
 
